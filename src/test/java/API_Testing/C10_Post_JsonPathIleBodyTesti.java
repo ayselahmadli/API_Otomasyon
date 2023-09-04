@@ -7,7 +7,7 @@ import org.junit.Test;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.*;
 
-public class C09_Post_JsonPathIleBodyTesti {
+public class C10_Post_JsonPathIleBodyTesti {
 
     /*
     https://restful-booker.herokuapp.com/booking url’ine asagidaki body’ye sahip bir POST
